@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **khoinguyenmai17102005@gmail.com**
 
-- ⚡ Fun fact **I want to program to help people**
+- ⚡ Fun fact **I want to sleep 😴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
