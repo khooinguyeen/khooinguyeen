@@ -11,6 +11,8 @@
 
 - 🤝 I’m looking for help with [Look & Tell Official App](https://github.com/khooinguyeen/LookandTell-OfficialApp)
 
+- 💬 Ask me about **Android Studio, OpenCV, Mediapipe, Robotics**
+
 - 📫 How to reach me **khoinguyenmai17102005@gmail.com**
 
 - ⚡ Fun fact **I want to sleep 😴**
