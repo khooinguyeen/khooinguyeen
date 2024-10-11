@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khôi Nguyên (moi)</h1>
-<h3 align="center">a Vietnamese high school student who is passionate about programming. Problems in life and society are always topics for me to get ideas and find solutions, especially to help the disadvantaged.</h3>
+<h3 align="center">a Vietnamese student who is passionate about programming. Problems in life and society are always topics for me to get ideas and find solutions, especially to help the disadvantaged.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khooinguyeen&label=Profile%20views&color=0e75b6&style=flat" alt="khooinguyeen" /> </p>
 
