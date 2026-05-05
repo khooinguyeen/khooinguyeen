@@ -33,9 +33,5 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css,react,nodejs,spring,pytorch,tensorflow,opencv,sqlite,postgres,firebase,git,docker,androidstudio,r,idea,vercel,postman&perline=8" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khooinguyeen&show_icons=true&locale=en&layout=compact" alt="khooinguyeen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khooinguyeen&show_icons=true&locale=en" alt="khooinguyeen" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khooinguyeen&" alt="khooinguyeen" /></p>
 
