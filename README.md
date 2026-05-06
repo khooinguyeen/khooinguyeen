@@ -2,7 +2,7 @@
 
 ### An AI/ML Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=khooinguyeen&theme=onedark" alt="khooinguyeen" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=khooinguyeen&theme=onedark" alt="khooinguyeen" /></a> </p> -->
 
 - 🔭 I'm currently working on **Kora AI Companion**
 
