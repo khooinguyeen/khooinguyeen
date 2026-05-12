@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **khoinguyenmai17102005@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://khooinguyeen.github.io/mkn-react-portfolio/](https://khooinguyeen.github.io/mkn-react-portfolio/)**
+- 👨‍💻 All of my projects are available at **[my portfolio website](https://khooinguyeen.github.io/mkn-react-portfolio/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1LxldTgqk2ZlDSDC8pcnkNLQ6N2eKrq1o/view?usp=sharing](https://drive.google.com/file/d/1LxldTgqk2ZlDSDC8pcnkNLQ6N2eKrq1o/view?usp=sharing)**
+- 📄 Know about my experiences from **[my resume](https://drive.google.com/file/d/1LxldTgqk2ZlDSDC8pcnkNLQ6N2eKrq1o/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <table>
