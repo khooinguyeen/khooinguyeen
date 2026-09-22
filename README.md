@@ -25,5 +25,5 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css,react,nodejs,spring,pytorch,tensorflow,opencv,sqlite,postgres,firebase,git,docker,androidstudio,r,idea,vercel,postman&perline=8" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khooinguyeen&" alt="khooinguyeen" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khooinguyeen&" alt="khooinguyeen" /></p> -->
 
